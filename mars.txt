@@ -1,1 +1,3 @@
 Mars is great. It is red and small.
+But it is uninhabitable for human life. Also, there are probably 
+Martians.
